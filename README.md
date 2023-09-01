@@ -6,11 +6,15 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo APP
+![](https://github.com/dnrahmath/prakerja_dwinandarahmatherlambang_flutter/blob/master/demo-app.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShoot 1
+![](https://github.com/dnrahmath/prakerja_dwinandarahmatherlambang_flutter/blob/master/Screenshot_2023-09-01-16-03-56-625_com.example.prakerja_dwinandarahmatherlambang.jpg)
+
+## ScreenShoot 2
+![](https://github.com/dnrahmath/prakerja_dwinandarahmatherlambang_flutter/blob/master/Screenshot_2023-09-01-16-03-59-169_com.example.prakerja_dwinandarahmatherlambang.jpg)
+
+## ScreenShoot 3
+![](https://github.com/dnrahmath/prakerja_dwinandarahmatherlambang_flutter/blob/master/Screenshot_2023-09-01-16-04-03-474_com.example.prakerja_dwinandarahmatherlambang.jpg)
